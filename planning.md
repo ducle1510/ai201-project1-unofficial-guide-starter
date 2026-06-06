@@ -26,16 +26,17 @@ The domain of this project is student-generated reviews and experiences regardin
 | 3 | Denison University | A general overview of Adam Waterbury's profile and his academic background, field of interests | https://denison.edu/people/adam-waterbury |
 | 4 | Denison University | A general overview of Robert Viator's profile and his academic background, field of interests | https://denison.edu/people/robert-viator |
 | 5 | Denison University | A general overview of Lew Ludwig's profile and his academic background, field of interests | https://denison.edu/people/lew-ludwig |
-| 6 | Rate My Professor | | |
-| 7 | Rate My Professor | | |
-| 8 | Rate My Professor | | |
-| 9 | Rate My Professor | | |
-| 10 | Rate My Professor | | |
+| 6 | Denison University | A general overview of David Kahn's profile and his academic background, field of interests | https://denison.edu/people/david-kahn |
+| 7 | Denison University | A general overview of Flannery Currin's profile and her academic background, field of interests | https://denison.edu/people/flannery-currin |
+| 8 | Denison University | A general overview of Mikey Goldweber's profile and his academic background, field of interests | https://denison.edu/people/mikey-goldweber |
 | 11 | Rate My Professor | | |
 | 12 | Rate My Professor | | |
 | 13 | Rate My Professor | | |
 | 14 | Rate My Professor | | |
 | 15 | Rate My Professor | | |
+| 16 | Rate My Professor | | |
+| 17 | Rate My Professor | | |
+| 18 | Rate My Professor | | |
 
 ---
 
