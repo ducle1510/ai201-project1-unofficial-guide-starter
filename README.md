@@ -50,13 +50,13 @@ course descriptions don't reflect teaching style, exam difficulty, or workload."
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunk size:** 250-300 tokens
 
-**Overlap:**
+**Overlap:** 50 tokens
 
-**Why these choices fit your documents:**
+**Why these choices fit your documents:** Professor reviews are typically short opinion-based texts. Large chunks may combine multiple unrelated comments and dilute retrieval quality. A chunk size of 250-300 tokens allows for capturing individual reviews or comments while maintaining enough context. An overlap of 50 tokens ensures that if a review is split between two chunks, the relevant information is still retained in both, improving retrieval accuracy.
 
-**Final chunk count:**
+**Final chunk count:** 
 
 ---
 
@@ -68,22 +68,17 @@ course descriptions don't reflect teaching style, exam difficulty, or workload."
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** all-MiniLM-L6-v2 via sentence-transformers
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** If cost were not a constraint, I would consider using a more powerful embedding model like OpenAI's text-embedding-3-small or a domain-specific model fine-tuned on educational reviews. These models may offer better accuracy in capturing the nuances of student reviews and professor characteristics. However, they may also have higher latency and cost compared to all-MiniLM-L6-v2. The tradeoff would involve balancing the improved retrieval quality against the increased computational resources and potential delays in response time for users.
 
 ---
 
 ## Grounded Generation
 
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
+<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering beyond the retrieved documents? Describe both your system prompt (what instruction you gave the model) and any structural choices (e.g., how you formatted the context, whether you filtered low-relevance chunks). Do not just say "I told it to use the documents" — show the actual instruction or explain the mechanism. -->
 
-**System prompt grounding instruction:**
+**System prompt grounding instruction:** 
 
 **How source attribution is surfaced in the response:**
 
