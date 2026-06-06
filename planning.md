@@ -80,11 +80,11 @@ The domain of this project is student-generated reviews and experiences regardin
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Which professor is most frequently described as giving helpful feedback? | |
-| 2 | Which professor is most often mentioned for being approachable outside of class? | |
-| 3 | Which professor has the highest overall student rating? | |
-| 4 | Which professor is considered the toughest grader? | |
-| 5 | Which professor is most often mentioned for providing useful study materials? | |
+| 1 | Which professor is most frequently described as giving helpful feedback? | Professor A is praised for providing detailed and constructive feedback. |
+| 2 | Which professor is most often mentioned for being approachable outside of class? | Professor B is frequently noted for being available and approachable outside of class. |
+| 3 | Which professor has the highest overall student rating? | Professor C has the highest overall student rating based on aggregated reviews. |
+| 4 | Which professor is considered the toughest grader? | Professor D is often mentioned as the toughest grader. |
+| 5 | Which professor is most often mentioned for providing useful study materials? | Professor E is recognized for providing helpful and comprehensive study materials. |
 
 ---
 
@@ -94,9 +94,8 @@ The domain of this project is student-generated reviews and experiences regardin
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
-
-2.
+1. Noisy or inconsistent documents: Student reviews may vary in length, detail, and writing style, which could affect the quality of embeddings and retrieval accuracy.
+2. Missing source attribution: Some reviews may lack clear attribution to specific professors, making it challenging to accurately answer questions about individual professors.
 
 ---
 
