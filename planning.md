@@ -106,6 +106,38 @@ The domain of this project is student-generated reviews and experiences regardin
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+               User Question
+                    |
+                    v
+               Retrieval Query
+                    |
+                    v
+      +----------------------------------+
+      |           ChromaDB               |
+      |  Embedded Review Chunks          |
+      +----------------------------------+
+                    ^
+                    |
+          all-MiniLM-L6-v2 Embeddings
+                    ^
+                    |
+               Chunking Layer
+          (300 words, overlap 50)
+                    ^
+                    |
+               Document Cleaning
+                    ^
+                    |
+      RateMyProfessor / Reddit / Discord
+                    ^
+                    |
+               Raw Documents
+                    |
+                    v
+     Llama 3.3 70B (Groq Generation)
+                    |
+                    v
+          Grounded Answer + Sources
 
 ---
 
