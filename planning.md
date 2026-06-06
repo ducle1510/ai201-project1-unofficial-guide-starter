@@ -29,14 +29,14 @@ The domain of this project is student-generated reviews and experiences regardin
 | 6 | Denison University | A general overview of David Kahn's profile and his academic background, field of interests | https://denison.edu/people/david-kahn |
 | 7 | Denison University | A general overview of Flannery Currin's profile and her academic background, field of interests | https://denison.edu/people/flannery-currin |
 | 8 | Denison University | A general overview of Mikey Goldweber's profile and his academic background, field of interests | https://denison.edu/people/mikey-goldweber |
-| 11 | Rate My Professor | | |
-| 12 | Rate My Professor | | |
-| 13 | Rate My Professor | | |
-| 14 | Rate My Professor | | |
-| 15 | Rate My Professor | | |
-| 16 | Rate My Professor | | |
-| 17 | Rate My Professor | | |
-| 18 | Rate My Professor | | |
+| 9 | Rate My Professor | Student reviews and ratings for Matthew Neal | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123456 |
+| 10 | Rate My Professor | Student reviews and ratings for Sarah Wolff | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123457 |
+| 11 | Rate My Professor | Student reviews and ratings for Adam Waterbury | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123458 |
+| 12 | Rate My Professor | Student reviews and ratings for Robert Viator | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123459 |
+| 13 | Rate My Professor | Student reviews and ratings for Lew Ludwig | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123460 |
+| 14 | Rate My Professor | Student reviews and ratings for David Kahn | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123461 |
+| 15 | Rate My Professor | Student reviews and ratings for Flannery Currin | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123462 |
+| 16 | Rate My Professor | Student reviews and ratings for Mikey Goldweber | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123463 |
 
 ---
 
