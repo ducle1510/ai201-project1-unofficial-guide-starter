@@ -21,16 +21,21 @@ The domain of this project is student-generated reviews and experiences regardin
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | Denison University | A general overview of Matthew Neal's profile and his academic background, field of interests |https://denison.edu/people/matthew-neal |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Denison University | A general overview of Matthew Neal's profile and his academic background, field of interests | https://denison.edu/people/matthew-neal |
+| 2 | Denison University | A general overview of Sarah Wolff's profile and her academic background, field of interests | https://denison.edu/people/sarah-wolff |
+| 3 | Denison University | A general overview of Adam Waterbury's profile and his academic background, field of interests | https://denison.edu/people/adam-waterbury |
+| 4 | Denison University | A general overview of Robert Viator's profile and his academic background, field of interests | https://denison.edu/people/robert-viator |
+| 5 | Denison University | A general overview of Lew Ludwig's profile and his academic background, field of interests | https://denison.edu/people/lew-ludwig |
+| 6 | Rate My Professor | | |
+| 7 | Rate My Professor | | |
+| 8 | Rate My Professor | | |
+| 9 | Rate My Professor | | |
+| 10 | Rate My Professor | | |
+| 11 | Rate My Professor | | |
+| 12 | Rate My Professor | | |
+| 13 | Rate My Professor | | |
+| 14 | Rate My Professor | | |
+| 15 | Rate My Professor | | |
 
 ---
 
