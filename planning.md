@@ -63,11 +63,11 @@ The domain of this project is student-generated reviews and experiences regardin
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** all-MiniLM-L6-v2 via sentence-transformers
 
-**Top-k:**
+**Top-k:** 5 chunks per query
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** If cost were not a constraint, I would consider using a more powerful embedding model like OpenAI's text-embedding-3-small or a domain-specific model fine-tuned on educational reviews. These models may offer better accuracy in capturing the nuances of student reviews and professor characteristics. However, they may also have higher latency and cost compared to all-MiniLM-L6-v2. The tradeoff would involve balancing the improved retrieval quality against the increased computational resources and potential delays in response time for users.
 
 ---
 
@@ -80,11 +80,11 @@ The domain of this project is student-generated reviews and experiences regardin
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Which professor is most frequently described as giving helpful feedback? | |
+| 2 | Which professor is most often mentioned for being approachable outside of class? | |
+| 3 | Which professor has the highest overall student rating? | |
+| 4 | Which professor is considered the toughest grader? | |
+| 5 | Which professor is most often mentioned for providing useful study materials? | |
 
 ---
 
