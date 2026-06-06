@@ -47,11 +47,11 @@ The domain of this project is student-generated reviews and experiences regardin
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** 250-300 tokens
 
-**Overlap:**
+**Overlap:** 50 tokens
 
-**Reasoning:**
+**Reasoning:** Professor reviews are typically short opinion-based texts. Large chunks may combine multiple unrelated comments and dilute retrieval quality. A chunk size of 250-300 tokens allows for capturing individual reviews or comments while maintaining enough context. An overlap of 50 tokens ensures that if a review is split between two chunks, the relevant information is still retained in both, improving retrieval accuracy.
 
 ---
 
