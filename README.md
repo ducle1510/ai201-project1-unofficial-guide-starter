@@ -14,6 +14,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+     The domain of this project is student-generated reviews and experiences regarding Mathematics and Computer Science professors at Denison University. This knowledge is valuable because it provides insights into the teaching styles, course difficulty, and overall student satisfaction with professors that may not be fully captured in official course descriptions or ratings. It is hard to find through official channels because official university resources often lack detailed, candid feedback from students, and platforms like RateMyProfessors may not have comprehensive or up-to-date information for all professors at Denison University.
 ---
 
 ## Document Sources
@@ -24,7 +25,7 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
+| 1 | Denison University | A general overview of Matthew Neal's profile and his academic background, field of interests | https://denison.edu/people/matthew-neal |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
