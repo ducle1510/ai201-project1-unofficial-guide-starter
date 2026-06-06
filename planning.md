@@ -21,7 +21,7 @@ The domain of this project is student-generated reviews and experiences regardin
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
+| 1 | Denison University | A general overview of Matthew Neal's profile and his academic background, field of interests |https://denison.edu/people/matthew-neal |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
