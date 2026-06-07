@@ -11,7 +11,7 @@
 
 <!-- What topic or category of knowledge does your system cover?
 Why is this knowledge valuable, and why is it hard to find through official channels?Example: "Student reviews of CS professors at [university] — useful because official
-course descriptions don't reflect teaching style, exam difficulty, or workload." --> The domain of this project is student-generated reviews and experiences regarding Mathematics and Computer Science professors at Denison University. This knowledge is valuable because it provides insights into the teaching styles, course difficulty, and overall student satisfaction with professors that may not be fully captured in official course descriptions or ratings. It is hard to find through official channels because official university resources often lack detailed, candid feedback from students, and platforms like RateMyProfessors may not have comprehensive or up-to-date information for all professors at Denison University.
+course descriptions don't reflect teaching style, exam difficulty, or workload." --> The domain of this project is student-generated reviews and experiences regarding Mathematics and Computer Science professors at Denison University. This knowledge is valuable because it provides insights into the teaching styles, course difficulty, and overall student satisfaction with professors that may not be fully captured in official course descriptions or ratings. Also, students often rely on informal sources such as conversations with upperclassmen, anonymous reviews, Discord discussions, Reddit posts, and advising recommendations when choosing professors and courses. It is hard to find through official channels because official university resources often lack detailed, candid feedback from students, and platforms like RateMyProfessors may not have comprehensive or up-to-date information for all professors at Denison University.
 ---
 
 ## Document Sources
@@ -30,14 +30,14 @@ course descriptions don't reflect teaching style, exam difficulty, or workload."
 | 6 | Denison University | A general overview of David Kahn's profile and his academic background, field of interests | https://denison.edu/people/david-kahn |
 | 7 | Denison University | A general overview of Flannery Currin's profile and her academic background, field of interests | https://denison.edu/people/flannery-currin |
 | 8 | Denison University | A general overview of Mikey Goldweber's profile and his academic background, field of interests | https://denison.edu/people/mikey-goldweber |
-| 9 | Rate My Professor | Student reviews and ratings for Matthew Neal | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123456 |
-| 10 | Rate My Professor | Student reviews and ratings for Sarah Wolff | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123457 |
-| 11 | Rate My Professor | Student reviews and ratings for Adam Waterbury | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123458 |
-| 12 | Rate My Professor | Student reviews and ratings for Robert Viator | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123459 |
-| 13 | Rate My Professor | Student reviews and ratings for Lew Ludwig | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123460 |
+| 9 | Rate My Professor | Student reviews and ratings for Matthew Neal | https://www.ratemyprofessors.com/professor/250353 |
+| 10 | Rate My Professor | Student reviews and ratings for Sarah Wolff | https://www.ratemyprofessors.com/professor/2107876 |
+| 11 | Rate My Professor | Student reviews and ratings for Adam Waterbury | https://www.ratemyprofessors.com/professor/2994106 |
+| 12 | Rate My Professor | Student reviews and ratings for Robert Viator | https://www.ratemyprofessors.com/professor/3000325 |
+| 13 | Rate My Professor | Student reviews and ratings for Lew Ludwig | https://www.ratemyprofessors.com/professor/366853 |
 | 14 | Rate My Professor | Student reviews and ratings for David Kahn | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123461 |
-| 15 | Rate My Professor | Student reviews and ratings for Flannery Currin | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123462 |
-| 16 | Rate My Professor | Student reviews and ratings for Mikey Goldweber | https://www.ratemyprofessors.com/ShowRatings.jsp?tid=123463 |
+| 15 | Rate My Professor | Student reviews and ratings for Flannery Currin | https://www.ratemyprofessors.com/professor/3127967 |
+| 16 | Rate My Professor | Student reviews and ratings for Mikey Goldweber | https://www.ratemyprofessors.com/professor/3003327 |
 
 ---
 

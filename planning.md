@@ -155,6 +155,7 @@ The domain of this project is student-generated reviews and experiences regardin
 
 **Milestone 3 — Ingestion and chunking:**
 
+
 **Milestone 4 — Embedding and retrieval:**
 
 **Milestone 5 — Generation and interface:**
